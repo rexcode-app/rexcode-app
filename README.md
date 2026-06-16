@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+
+## Hi there 👋
+
+🌐 **Website**: [rexcode.app](https://rexcode.app/)
+
+### Products
+
+- 🗂️ **[Lode](https://rexcode.app/lode/)** — macOS file viewer & compare tool
+- 🚶 **[Sunny Walker](https://rexcode.app/sunny_walker/)** — walking app
+
 <!--
 **rexcode-app/rexcode-app** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

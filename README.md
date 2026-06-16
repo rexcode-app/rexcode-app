@@ -1,7 +1,4 @@
-## Hi there 👋
-
-
-## Hi there 👋
+## Hi there 👋 👋 👋
 
 🌐 **Website**: [rexcode.app](https://rexcode.app/)
 
